@@ -31,7 +31,7 @@ public class GuessGame extends GuessGameLauncher {
         System.out.println("Gondolok egy számra egy és tíz között..");
         
         while(true){
-            System.out.println("A szám amire gondoltam: " + targetNumber);
+//            System.out.println("A szám amire gondoltam: " + targetNumber);
             p1.guess();
             p2.guess();
             p3.guess();
