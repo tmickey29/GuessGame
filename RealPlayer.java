@@ -14,6 +14,6 @@ public class RealPlayer extends GuessGame {
     
     public void realguess(){
         realnumber = (int) + sc.nextInt();
-        System.out.println("Az Ön tippje: " + realnumber);
+//        System.out.println("Az Ön tippje: " + realnumber);
     }
 }
