@@ -28,7 +28,7 @@ public class GuessGame extends GuessGameLauncher {
         boolean p4isRight = false;
         
         int targetNumber = (int) (Math.random() * 10);
-        System.out.println("Gondolok egy számra egy és tíz között..");
+        System.out.println("Gondoltam egy számra egy és tíz között..");
         
         while(true){
 //            System.out.println("A szám amire gondoltam: " + targetNumber);
